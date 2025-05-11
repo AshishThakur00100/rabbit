@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Now here i am including the google inter fonts code here to use it in my projec*/
+
+#root {
+  font-family: "Inter" , sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+  /* here the code of the google interfonts end */
+  
+}
